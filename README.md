@@ -1,5 +1,7 @@
 # automated_speedtest
 
+##this isnt complete yet, nor is it working
+
 This repository is a simple and easy to setup way to monitor your internet connection through the day, week or whatever you want.
 
 Simply run the following command and everything will be installed autmatically:
